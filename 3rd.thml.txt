@@ -1,0 +1,16 @@
+<html>
+<head>
+       <title>我的3rd</title>
+</head>
+<body background="740-.jpg">
+<h2><u>Lamborghini 售後服務</u></h2> <br>
+<u><b>Lamborghini新世代旗艦超跑以採用碳纖維複合材質打造出的全單體車艙，創造輕量化設計，並且保有一流的車身剛性及被動安全性，為了讓每位車主無後顧之憂，因此原廠具備卓越的碳纖維複合材質修繕技術</b></u> <br>
+<u><b>Lamborghini Taipei於北、中、南皆有服務據點提供遍佈全臺各地車主最高規格的純粹專業服務，同時，也做為往後深耕臺灣市場的基地，亦能更佳配合Lamborghini原廠未來發展方向，服務全臺所有愛好者。</b></u> <br>
+<u><b>自車輛入場的那一刻起，即提供每一位車主朋友絕佳效能的服務，不僅可深刻感受Lamborghini的義式奢華與永不妥協的完美風格，體驗車主與車輛的用心照料。</b></u> <br>
+
+<a href="index.html">連到首頁</a> <br>
+<a href="2nd.html">連到第2頁</a>  <br>
+<a href="4th.html">連到第4頁</a>
+
+</body>
+</html>
