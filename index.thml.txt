@@ -1,0 +1,36 @@
+
+<html>
+
+<head>
+
+<title>Lamborghini</title>
+</head>
+<body background="740-4.jpg">
+
+<p align="center"><font color="#FFFFFF"><a href="index.htm">
+<font color="#FFFFFF">首頁</font></a>　/　<span style="text-decoration: none"><a href="2nd.htm"><font color="#FFFFFF">第一頁</font></a></span>　/　<span style="text-decoration: none"><a href="3rd.htm"><font color="#FFFFFF">第二頁</font></a></span>　/　<span style="text-decoration: none"><a href="4th.htm"><font color="#FFFFFF">第三頁</font></a></span></font></p>
+<hr>
+<p align="center"><font color="#FFFFFF">Lamborghini  LP 740-4</font></p>
+
+<p align="center"><img border="0" src="img/1.png" width="430" height="241"></p>
+
+
+<p align="center"><font color="#FFFFFF"><u>1963年，費魯吉歐‧藍寶堅尼創立藍寶堅尼汽車品牌。藍寶堅尼的廠徽由來<br>
+<br>
+是因為創辦人出生 的當天洽好是金牛座，固以此為廠徽 另外還有一個意思是蠻牛(藍寶堅尼)<br>
+<br>
+2011年創立新款V12車型， 他就是 AventadorLP700-4 獨一無二的設計及創新的技術成為了超級跑車界的新標竿。<br>
+<br>
+2015年再度推出 驚嘆世界的新車Aventador SV硬頂以及敞篷車型，結合高行能的優雅。<br>
+<br>
+2016年則是創辦人百年誕辰紀念日， 為了紀念創辦人推出Centenario LP770-4<br>
+<br>
+推出全球40台 20台硬頂 20台敞篷版， 成為收藏家心中的大愛。<br>
+<br>
+台灣嘉鎷興業代理商，你只要符合他們購車的階級，代理商可以跟原廠製作你的超級跑車<br>
+<br>
+
+  <embed src="CC.mp3"loop="infinite">
+</body>
+
+</html>

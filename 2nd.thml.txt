@@ -1,0 +1,37 @@
+<html>
+
+<head>
+<title>Lamborghini</title>
+<body background="img/2.jpg">
+
+</head>
+<body background="740.jpg">
+
+<p align="center"><font color="#FFFFFF"><a href="index.htm">
+<font color="#FFFFFF">首頁</font></a>　/　<span style="text-decoration: none"><a href="2nd.htm"><font color="#FFFFFF">第一頁</font></a></span>　/　<span style="text-decoration: none"><a href="3rd.htm"><font color="#FFFFFF">第二頁</font></a></span>　/　<span style="text-decoration: none"><a href="4th.htm"><font color="#FFFFFF">第三頁</font></a></span></font></p>
+<hr>
+<p align="center"><font color="#FFFFFF">Lamborghini 介紹</font></p>
+<p align="center"><img border="0" src="img/2.png" width="430" height="241"></p>
+<p align="center"><font color="#FFFFFF"><u>藍寶堅尼超級跑車才用手工打造 V12缸引擎，碳纖維單體車艙，知名品牌主動式電磁推桿避震器，<br>
+
+<br>
+在價格的部分小牛價錢落在於新台幣1800萬左右，<br>
+<br>
+大牛的部分比較貴落在新台幣3000萬左右。<br>
+<br>
+給金字塔頂端高收入群組，可以讓他們擁有各式各樣品牌的超級跑車，<br>
+<br>
+希望他可以抗衡法拉利品牌的超級跑車。<br>
+<br>
+購買Lamborghini超跑Ad Personam客製化服務，<br>
+<br>
+由內到外全程客製化訂做烤漆、座椅、卡鉗顏色、碳纖維飾板、單孔式輕量化黑色輪圈、縫線方式及內裝皮革。<br>
+<br>
+
+  <embed src="CC.mp3"loop="infinite">
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,33 @@
+<html>
+
+<head>
+
+<title>Lamborghini</title>
+
+
+</head>
+<body background="740-.jpg">
+
+<p align="center"><font color="#FFFFFF"><a href="index.htm">
+<font color="#FFFFFF">首頁</font></a>　/　<span style="text-decoration: none"><a href="2nd.htm"><font color="#FFFFFF">第一頁</font></a></span>　/　<span style="text-decoration: none"><a href="3rd.htm"><font color="#FFFFFF">第二頁</font></a></span>　/　<span style="text-decoration: none"><a href="4th.htm"><font color="#FFFFFF">第三頁</font></a></span></font></p>
+<hr>
+<p align="center"><font color="#FFFFFF">Lamborghini 售後服務</font></p>
+<p align="center"><img border="0" src="img/3.png" width="430" height="241"></p>
+  
+<p align="center"><font color="#FFFFFF"><u>
+  
+Lamborghini新世代旗艦超跑以採用碳纖維複合材質打造出的全單體車艙，<br>
+創造輕量化設計，並且保有一流的車身剛性及被動安全性，<br>
+為了讓每位車主無後顧之憂，因此原廠具備卓越的碳纖維複合材質修繕技術<br>
+Lamborghini Taipei於北、中、南皆有服務據點提供遍佈全臺各地車主最高規格的純粹專業服務<br>
+同時，也做為往後深耕臺灣市場的基地，<br>
+亦能更佳配合Lamborghini原廠未來發展方向，服務全臺所有愛好者。<br>
+自車輛入場的那一刻起，即提供每一位車主朋友絕佳效能的服務，<br>
+不僅可深刻感受Lamborghini的義式奢華與永不妥協的完美風格，體驗車主與車輛的用心照料。<br>
+<br>
+<br>
+
+  <embed src="CC.mp3"loop="infinite">
+</body>
+
+</html>

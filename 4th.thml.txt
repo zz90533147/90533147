@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Lamborghini</title>
+</head>
+<body background="74.jpg">
+<p align="center"><font color="#FFFFFF"><a href="index.htm">
+<font color="#FFFFFF">首頁</font></a>　/　<span style="text-decoration: none"><a href="2nd.htm"><font color="#FFFFFF">第一頁</font></a></span>　/　<span style="text-decoration: none"><a href="3rd.htm"><font color="#FFFFFF">第二頁</font></a></span>　/　<span style="text-decoration: none"><a href="4th.htm"><font color="#FFFFFF">第三頁</font></a></span></font></p>
+<hr>
+<p align="center"><font color="#FFFFFF">北部</font></p>
+<p align="center"><font color="#FFFFFF">地址:114台北市內湖區堤頂大道一段37號</font></p>
+<p align="center"><font color="#FFFFFF">電話:02 2796 3737</font></p>
+<p align="center"><font color="#FFFFFF">中部</font></p>
+<p align="center"><font color="#FFFFFF">地址:407台中市西屯區市政路159號</font></p>
+<p align="center"><font color="#FFFFFF">南部</font></p>
+<p align="center"><font color="#FFFFFF">地址:806高雄市前鎮區新都路25號</font></p>
+<p align="center"><font color="#FFFFFF">電話:07 812 1000</font></p>
+
+  <embed src="CC.mp3"loop="infinite">
+</body>
+</html>
